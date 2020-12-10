@@ -1,3 +1,3 @@
 # Resume
 ## Devina Lee Sheng Tin
-![Headshot](headshot.jpg "Headshot")
+<img src="headshot.jpg" style="float: left;margin-right: 10px;" />
