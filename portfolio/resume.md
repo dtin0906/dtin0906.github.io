@@ -1,3 +1,3 @@
 # Resume
 ## Devina Lee Sheng Tin
-<img src="portfolio/headshot.jpg"/>
+<img src="/assets/images/headshot.jpg"/>
