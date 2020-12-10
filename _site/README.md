@@ -1,2 +1,2 @@
-# dtin0906.github.io
-Technical Writing Portfolio Website
+# Technical Writing Portfolio Website
+This is a sample github pages site built using Jekyll. 
