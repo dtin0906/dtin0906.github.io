@@ -4,6 +4,7 @@ title: Sample Deployment Guide
 permalink: /about/
 ---
 # How To Deploy Child Applications 
+Identifying information has been redatcted and random characters have been input instead. 
 ## Deploying To Cloud 
 Before you begin deploying, ensure that you have updated all versions in helm-charts and (for UI applications) update the package.json and production/index.html
 * You can find the latest deployed version of your app by searching for it in Rancher. 
