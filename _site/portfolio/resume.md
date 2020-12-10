@@ -1,5 +1,4 @@
 # Resume
 ## Devina Lee Sheng Tin
-<img src="headshot.jpg"
-     alt="Picture of Devina"
+<img src="/assets/img/headshot.jpg"
      style="float: left; margin-right: 10px;" />
