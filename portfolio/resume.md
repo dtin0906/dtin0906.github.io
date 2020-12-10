@@ -7,7 +7,7 @@
 ### REMOTE | United States
 
 ## Experience
-======
+---
 ### Software Application Developer
 #### Centene Corporation | St. Louis, Missouri
 #### 07/2019 - Ongoing
@@ -52,7 +52,7 @@ Certified Kubernetes Application Developer (in progress)
 
 
 
-SKILLS & TECHNOLOGIES
+## SKILLS & TECHNOLOGIES
 ======
 GIT / VIM
 
