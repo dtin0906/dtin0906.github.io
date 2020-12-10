@@ -23,9 +23,9 @@
     "url": "http://localhost:4000/about/",
     "relUrl": "/about/"
   },"4": {
-    "doc": "Devina Lee Sheng Tin",
-    "title": "Devina Lee Sheng Tin",
-    "content": "# Devina Lee Sheng Tin ",
+    "doc": "Resume",
+    "title": "Resume",
+    "content": "# Resume ## Devina Lee Sheng Tin ",
     "url": "http://localhost:4000/portfolio/resume.html",
     "relUrl": "/portfolio/resume.html"
   },"5": {
