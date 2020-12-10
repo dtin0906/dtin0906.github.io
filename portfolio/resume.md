@@ -1,4 +1,3 @@
 # Resume
 ## Devina Lee Sheng Tin
-<img src="portfolio/picture/headshot.jpg"
-     style="float: left; margin-right: 10px;" />
+<img src="portfolio/picture/headshot.png" style="float: left;margin-right: 10px;" />
