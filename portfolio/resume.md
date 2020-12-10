@@ -2,12 +2,11 @@
 ## Devina Lee Sheng Tin
 ### Application Software Developer
 
-### dleeshengtin@gmail.com
-### 314 605-4220
-### REMOTE | United States
-
-## Experience
+#### dleeshengtin@gmail.com
+#### 314 605-4220
+#### REMOTE | United States
 ---
+## Experience
 ### Software Application Developer
 #### Centene Corporation | St. Louis, Missouri
 #### 07/2019 - Ongoing
@@ -34,9 +33,8 @@ The U.S. Green Building Council runs the LEED program which is the leading progr
 Illustration and stationary company
  - I work with clients one on one to refine their concepts, design the graphics, and either produce or outsource the production of their physical products. Dots. By Dev also has a full line of stationary including postcards, stickers, and greeting cards
 
-
+---
 ## Education
-======
 Computer Programming
 Launchcode Foundation
 06/2018 - 12/2018
@@ -45,32 +43,26 @@ General Studies
 Saint Louis Community College
 02/2015
 
-
+---
 ## CURRENT COURSES
-======
-Certified Kubernetes Application Developer (in progress)
+I am currently studing for the CKAD(Certified Kubernetes Application Developer). 
 
-
-
+---
 ## SKILLS & TECHNOLOGIES
-======
-GIT / VIM
+- GIT
+- VIM
+- ANGULAR
+- GOLANG
+- BASH
+- PYTHON
+- C#
+- CI/CD
+- GRAFANA
+- HUMAN CENTERED DESIGN
+- JEKYLL
+- GITHUB PAGES
+- ATLASSIAN PRODUCTS (JIRA, CONFLUENCE...)
+- AGILE METHODOLOGIES
+- TECHNICAL COMMUNICATIONS
 
-ANGULAR
-
-GOLANG
-
-BASH
-
-PYTHON
-
-C#
-
-CI/CD
-
-GRAFANA
-
-HUMAN CENTERED DESIGN
-
-AGILE 
 
