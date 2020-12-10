@@ -1,2 +1,1 @@
-# dtin0906.github.io
-Technical Writing Portfolio Website
+# Technical Writing Portfolio Website
