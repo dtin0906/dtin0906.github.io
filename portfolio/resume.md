@@ -32,7 +32,7 @@
 #### Illustration and stationery company
 #### 10/2020 - Ongoing
 #### Dotsbydev.com
- - I work with clients one on one to refine their concepts, design the graphics, and either produce or outsource the production of their physical products. Dots. By Dev also has a full line of stationary including postcards, stickers, and greeting cards
+ - I work with clients one on one to refine their concepts, design the graphics, and either produce or outsource the production of their physical products. Dots. By Dev also has a full line of stationery including postcards, stickers, and greeting cards
 
 ### Content Creator / Barista
 #### Bike Stop Cafe & Outpost | Chesterfield, Missouri
