@@ -11,7 +11,7 @@
 #### Centene Corporation | St. Louis, Missouri
 #### 07/2019 - Ongoing
 ##### Medical insurance corporation
- - I work remotely on an Agile team to create robust and scalable medical applications. Specifically, my day to day development is done in Angular and Golang, using DevOps tools such as Docker, Kubernetes, and Graphana in conjunction with Jenkins for streamlining and automating deployments, tests, etc.
+ - I work remotely on an Agile team to create robust and scalable medical applications. Specifically, my day to day development is done in Angular and Golang, using DevOps tools such as Docker, Kubernetes, and Grafana in conjunction with Jenkins for streamlining and partially automating deployments, tests, etc.
  - I also run the Technical Writing Guild at Centene which teaches employees best practices for documenting API’s, UIs, design concepts, manuals and more.
 
 ### Apprentice Software Developer Centene Corporation
