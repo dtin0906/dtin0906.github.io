@@ -69,7 +69,7 @@ Saint Louis Community College
 ---
 ## SKILLS & TECHNOLOGIES
 
-#### Languages 
+##### Languages 
 - GIT
 - VIM
 - ANGULAR
@@ -78,14 +78,14 @@ Saint Louis Community College
 - PYTHON
 - C#  
 
-#### DevOps
+##### DevOps
 - CI/CD PROCESSES
 - GRAFANA
 - JENKINS
 - KUBERNETES
 - KAFKA  
 
-#### Technical Communications
+##### Technical Communications
 - HUMAN CENTERED DESIGN
 - JEKYLL
 - GITHUB PAGES
