@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sample Deployment Guide
-permalink: /about/
+permalink: /deploymentguide/
 ---
 # How To Deploy Child Applications 
 Identifying information has been redatcted and random characters have been input instead. 
@@ -64,7 +64,7 @@ This should only need to be done the first time you push an image, or if you rec
 
 * Run the following docker command
 
-    `sudo docker --config $HOME/.docker login artifactory-rco.centene.com`
+    `sudo docker --config $HOME/.docker login artifactory-rco.$$$$.com`
 * When prompted, enter your username and password 
 
 #### Push Image to Artifactory
@@ -76,18 +76,18 @@ Make sure to specify a Docker config file in your home directory.
 
 * Logout of Docker by running the following Docker command 
 
-    `sudo docker --config $HOME/.docker logout artifactory-rce.$$$$.com`
+    `sudo docker --config $HOME/.docker logout artifactory-rco.$$$$.com`
 
 ### Deploying to Dev
-* Add new bundle.js file to CHP app config in https://centene-health-platform.ckp-dev.centene.com/ (only needed if deploying a CHP child application)
-* Go to https://cje.ccp.centene.com/cjoc/ and login using your AD credentials.
+* Add new bundle.js file to $$$$ app config in $$$$ (only needed if deploying a $$$$ child application)
+* Go to $$$$ and login using your AD credentials.
    * Click on $$$$
    * Click on $$$$-pipelines
    * Click on $$$$
    * Click on $$$$ 
 * If there are secret/configmap updates that need to be made for your application, upload the new secrets/configmaps using the $$$$ Jenkins job under Utils.
 * Build the $$$$ Jenkins job, selecting the appropriate dropdown item for your application and entering the image tag you just pushed to Artifactory.
-*Go back to $$$$ > $$$$-$$$$ > $$$$-$$$$ and click on the tab Capture_TruCareNextGen_DockerImagePipeline.
+*Go back to $$$$ > $$$$-$$$$ > $$$$-$$$$ and click on the tab $$$$.
 There should be a new pipeline at the top of the screen with the first step complete. Ensure that the DockerTag and DockerProject values are correct.
 * Run the $$$$ Jenkins job from the pipeline view by clicking "trigger" which looks like a small clock
 After validating the app has successfully deployed, remove the previous bundle.js file from Dev $$$$ (if applicable).
