@@ -56,15 +56,21 @@
 ---
 ## Education
 Computer Programming
+
 Launchcode Foundation
+
 06/2018 - 12/2018
 
 Farm & Garden Student Apprenticeship 
+
 Earthdance Farms
+
 05/16 - 09/17 
 
 General Studies
+
 Saint Louis Community College
+
 02/2015
 
 ---
