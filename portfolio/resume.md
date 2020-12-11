@@ -51,7 +51,7 @@
 #### Apricot Ln. Boutique
 #### 06/2013 - 06/2014
 ##### Clothing store 
-- At Apricot Ln., I worked closely with other employees to help train them on both providing a pleasant customer experience and learning store tasks.
+- At Apricot Ln., I worked closely with other employees to help train them in both providing a pleasant customer experience and learning store tasks.
 
 ---
 ## Education
