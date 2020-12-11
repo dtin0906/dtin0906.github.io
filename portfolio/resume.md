@@ -30,9 +30,14 @@
 #### DOTS. BY DEV | Remote
 #### 10/2020 - Ongoing
 #### Dotsbydev.com
-Illustration and stationary company
+##### Illustration and stationary company
  - I work with clients one on one to refine their concepts, design the graphics, and either produce or outsource the production of their physical products. Dots. By Dev also has a full line of stationary including postcards, stickers, and greeting cards
 
+### Content Creator / Barista
+#### Bike Stop Cafe & Outpost | Chesterfield, Missouri
+#### 01/2018 - 01/2019
+##### Cafe and bicycle repair shop on the Katy Trail
+- At Bike Stop Cafe & Outpost, I had the opportunity to put my creativity to good use and develop, price and market new recipes for the cafe. I was also in charge of the newsletter that was sent out through MailChimp along with social media content writing.
 ---
 ## Education
 Computer Programming
