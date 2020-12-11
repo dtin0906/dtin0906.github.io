@@ -29,7 +29,7 @@
 
 ### Founder / Illustrator
 #### DOTS. BY DEV | Remote
-#### Illustration and stationary company
+#### Illustration and stationery company
 #### 10/2020 - Ongoing
 #### Dotsbydev.com
  - I work with clients one on one to refine their concepts, design the graphics, and either produce or outsource the production of their physical products. Dots. By Dev also has a full line of stationary including postcards, stickers, and greeting cards
