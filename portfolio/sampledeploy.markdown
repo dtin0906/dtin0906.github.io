@@ -5,6 +5,12 @@ permalink: /deploymentguide/
 ---
 # How To Deploy Child Applications 
 Identifying information has been redatcted and random characters have been input instead. 
+## Prerequisites
+In order to deploy a child application, ensure you have the expected access to all development environments.
+
+> e.g. You require the medical director role to view a specific feature and perform testing in a higher environment. 
+
+If you are lacking access to an environment, go to $$$$ and click access management. You can put in a request for necessary roles and/or you are missing 
 ## Deploying To Cloud 
 Before you begin deploying, ensure that you have updated all versions in helm-charts and (for UI applications) update the package.json and production/index.html
 * You can find the latest deployed version of your app by searching for it in Rancher. 
