@@ -37,7 +37,7 @@ Run the following docker command where {image_name} is the project.
 * Hit Save
 
 ### Update Secrets & Deploy Image To Kubernetes
-Before deploying your image to kubernetes using Helm charts, make any secret/configmap updates that are necessary. 
+Before deploying your image to Kubernetes using Helm charts, make any secret/configmap updates that are necessary. 
 Run the following helm command where {release_name} is the project and {chart_directory} (for templates and yaml files) is LIKELY also the project.
 
 
