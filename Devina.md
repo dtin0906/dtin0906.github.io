@@ -3,7 +3,7 @@ layout: page
 title: About Devina
 permalink: /devina/
 ---
-# Ok, so who are you *really* ? 
+# Ok, so who are you *really* ?  
 
 
 Hey Ya’ll! 
