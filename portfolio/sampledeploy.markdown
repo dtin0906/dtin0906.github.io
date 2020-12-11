@@ -8,7 +8,7 @@ Identifying information has been redatcted and random characters have been input
 ## Prerequisites
 In order to deploy a child application, ensure you have the expected access to all development environments.
 
-> e.g. You require the medical director role to view a specific feature and perform testing in a higher environment. 
+> Example: You require the medical director role to view a specific feature and perform testing in a higher environment. 
 
 If you are lacking access to an environment, go to $$$$ and click access management. You can put in a request for necessary roles and/or you are missing 
 ## Deploying To Cloud 
