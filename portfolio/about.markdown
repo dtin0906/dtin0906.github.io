@@ -9,7 +9,7 @@ Identifying information has been redatcted and random characters have been input
 Before you begin deploying, ensure that you have updated all versions in helm-charts and (for UI applications) update the package.json and production/index.html
 * You can find the latest deployed version of your app by searching for it in Rancher. 
 
-> Not sure what version number your app should be bumped up to? Check out this quick guide on[Semantic Versioning](https://semver.org/)
+> Not sure what version number your app should be bumped up to? Check out this quick guide on [Semantic Versioning](https://semver.org/)
 
 ### Build Your Docker Image
 To build your docker image, run the following command where {image_name} is the project
