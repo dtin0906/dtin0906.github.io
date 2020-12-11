@@ -74,13 +74,15 @@ Saint Louis Community College
 - GOLANG
 - BASH
 - PYTHON
-- C#
+- C#  
+
 
 - CI/CD PROCESSES
 - GRAFANA
 - JENKINS
 - KUBERNETES
-- KAFKA
+- KAFKA  
+
 
 - HUMAN CENTERED DESIGN
 - JEKYLL
