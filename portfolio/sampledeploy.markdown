@@ -12,21 +12,21 @@ In order to deploy a child application, ensure you have the expected access to a
 
 If you are lacking access to an environment, go to $$$$ and click `access management`. You can put in a request for necessary roles and\or environments you are missing.
 ## Deploying To Cloud 
-Before you begin deploying, ensure that you have updated all versions in helm-charts and (for UI applications) update the package.json and production/index.html
+Before you begin deploying, ensure that you have updated all versions in helm-charts and (for UI applications) update the `package.json` and `production/index.html` .
 * You can find the latest deployed version of your app by searching for it in Rancher. 
 
-> Not sure what version number your app should be bumped up to? Check out this quick guide on [Semantic Versioning](https://semver.org/)
+    *  Not sure what version number your app should be bumped up to? Check out this quick guide on [Semantic Versioning](https://semver.org/)
 
 ### Build Your Docker Image
-To build your docker image, run the following command where {image_name} is the project
+To build your docker image, run the following command where {image_name} is the project.
 
 ` docker build -f path/to/Dockerfile -t $$$$/$$$$/{image_name}:{tag} . `
 
-If you are building a UI image, append the following build argument to the command above
+If you are building a UI image, append the following build argument to the command above.
 
 ` --build-arg npmConfigCmd=setConfig:cloud `
 ### Push Docker Image To Cloud Harbor Registry
-Run the following docker command where {image_name} is the project
+Run the following docker command where {image_name} is the project.
 
 ` docker push $$$$/$$$$/{image_name}:{tag} `
 
@@ -56,7 +56,7 @@ Make sure to commit your changes to the $$$$ branch in $$$$, NOT the master bran
 
 #### Build & Push Docker Image 
 * Using SSH, login to $$$$ using Moba Xterm Pro
-* Either clone or `cd` into your project and pull down the updated changes. 
+* Either clone or `cd` into your project and pull down the updated changes
 * Build Docker Image 
     * Run the following docker command 
 
