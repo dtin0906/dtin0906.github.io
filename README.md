@@ -6,7 +6,7 @@ at the U.S. Green Building Council and Bike Stop Cafe & Outpost.
 ## U.S. Green Building Council 
 Much of the technical writing I was in charge of at USGBC was through their custom wordpress blog. 
 
-I was in charge of creating content and editting the code of the blog to fit their brand as needed.
+I was in charge of creating content and editing the code of the blog to fit their brand as needed.
 Below are a couple links to blog posts and event articles I created.
 
 * [Event Sign Up Page](https://usgreenbuildingcouncilstlouisregionalchapter.wildapricot.org/widget/event-2902897)
