@@ -10,7 +10,7 @@ In order to deploy a child application, ensure you have the expected access to a
 
 > Example: You require the medical director role to view a specific feature and perform testing in a higher environment. 
 
-If you are lacking access to an environment, go to $$$$ and click access management. You can put in a request for necessary roles and/or environments you are missing.
+If you are lacking access to an environment, go to $$$$ and click access management. You can put in a request for necessary roles and\or environments you are missing.
 ## Deploying To Cloud 
 Before you begin deploying, ensure that you have updated all versions in helm-charts and (for UI applications) update the package.json and production/index.html
 * You can find the latest deployed version of your app by searching for it in Rancher. 
