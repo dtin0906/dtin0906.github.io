@@ -40,12 +40,12 @@
 ##### Cafe and bicycle repair shop on the Katy Trail
 - At Bike Stop Cafe & Outpost, I had the opportunity to put my creativity to good use and develop, price and market new recipes for the cafe. I was also in charge of the newsletter that was sent out through MailChimp along with social media content writing.
 
-### Charity Ambassador / Floor Lead
+### Charity Ambassador / Floor Lead 
 #### LUSH FRESH HANDMADE COSMETICS | St. Louis, Missouri
 #### 10/2014 - 12/2017
 ##### Natural cosmetics retail shop
 - My role was to help manage the shop through training and overseeing other staff members and hiring on more employees.
-- I also worked to coordinate the store's Charity Pot Program through which I set sales goals, monitored training, and gave detailed reports on the feasibility of how to go about increasing sales for the "Charity Pot Program". I worked closely with the regional Charity Pot representative in order to stay on top of communications and events with current grassroot partners along with recruiting more organizations to become partners within the region.
+- I also worked to coordinate the store's Charity Pot Program through which I set sales goals, monitored training, and gave detailed reports on the feasibility of how to go about increasing sales for the "Charity Pot Program". I worked closely with the regional Charity Pot representative in order to stay on top of communications and events with current grassroot partners and recruiting more organizations to become partners within the region.
 
 ### Keyholder
 #### Apricot Ln. Boutique
