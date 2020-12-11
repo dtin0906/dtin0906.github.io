@@ -18,7 +18,7 @@
 #### LaunchCode Foundation | St. Louis, Missouri
 #### This apprenticeship was at Centene Corporation through the Launchcode Foundation 
 #### 01/2019 - 07/2019
- - This role was centered around building a complete medical application for Centene, from design and testing to production using Angular, Golang, devOp tools, and Python. I was on an Agile scrum team of 10 people and the application is still in production today.
+ - This role was centered around building a complete medical application for Centene, from design and testing to production, using Angular, Golang, devOp tools, and Python. I was on an Agile scrum team of 10 people and the application is still in production today.
 
 ### Education & Communications Intern
 #### U.S. Green Building Council
