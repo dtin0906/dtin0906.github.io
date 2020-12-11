@@ -35,4 +35,5 @@ I am an early bird by nature and part of my morning routine includes either list
 Thanks for stopping by and taking the time to get to know me. 
 
 Joyfully,
+
 Devina
