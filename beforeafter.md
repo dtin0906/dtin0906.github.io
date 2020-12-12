@@ -62,3 +62,6 @@ For this part of the process, I will be reading through the entire post and addi
 
 ### Copy Edit
 It has come time to do another read through - from beginning to end. This time, I am checking for inconsistencies, unnecessary repetition, punctuation, and grammar. This is the final edit before sending the annotated version to the author for review. 
+
+![Copy Edit 1](assets/images/copyedit1.jpeg)
+![Copy Edit 2](assets/images/copyedit2.jpeg)
