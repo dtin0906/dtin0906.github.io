@@ -59,3 +59,6 @@ For this part of the process, I will be reading through the entire post and addi
 ![Edit Four](assets/images/edit4.jpeg)
 > 
 #### This is our fourth edit.
+
+### Copy Edit
+It has come time to do another read through - from beginning to end. This time, I am checking for inconsistencies, unnecessary repetition, punctuation, and grammar. This is the final edit before sending the annotated version to the author for review. 
