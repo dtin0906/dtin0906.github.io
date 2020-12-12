@@ -13,8 +13,7 @@ This same approach is how I go about editing. Upon recieving a piece of writing,
 
 #### This is our starting point.  
 
-At first read, I am delighted to see that the author has well defined categories of points and that each of the bullets are complete thoughts. Since I know that this post will be part of an educational blog for new hires at the company, I have enough information to form an angle. 
 
-
+At first read, I am delighted to see that the author has well defined categories of points and that each of the bullets are complete thoughts. Since I know that this post will be part of an educational blog for new hires at the company, I have enough information to form an angle. From here, I can start to focus in on what 
 
 
