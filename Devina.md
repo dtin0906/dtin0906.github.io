@@ -5,6 +5,7 @@ permalink: /devina/
 ---
 # Ok, so who are you *really* ?  
 
+![Headshot](assets/images/headshot.jpg)
 
 Hey Ya’ll! 
 
