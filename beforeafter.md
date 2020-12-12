@@ -16,6 +16,7 @@ All edits have been created using *Bear*, a plain text editor.
 
 #### This is our starting point.  
 >
+
 ### Initial Thoughts
 At first read, I am delighted to see that the author has well defined categories of points and that each of the bullets are complete thoughts. Since I know that this post will be part of an educational blog for new hires at the company, I already have enough information to form an angle.  
 
