@@ -17,7 +17,9 @@ All edits have been created using -Bear-, a plain text editor.
 #### This is our starting point.  
 
 
-At first read, I am delighted to see that the author has well defined categories of points and that each of the bullets are complete thoughts. Since I know that this post will be part of an educational blog for new hires at the company, I have enough information to form an angle. From here, I can start to focus in on the structure of the post. Since this is an educational blog used for onboarding purposes, the -Get Started and Tutorials- section will be moved to the top, followed by -What is the Docker Engine-. This places -What is a Container?- last, since it is potentially repeating information already in the previous section. The reference section will be placed to the side for the time being. 
+At first read, I am delighted to see that the author has well defined categories of points and that each of the bullets are complete thoughts. Since I know that this post will be part of an educational blog for new hires at the company, I already have enough information to form an angle.
+From here, I can start to focus in on the structure of the post. 
+We know that this blog is being used for onboarding purposes, which means that the -Get Started and Tutorials- section should be moved to the top, followed by -What is the Docker Engine-. This places -What is a Container?- last, since it is potentially repeating information already in the previous section. The reference section will be placed to the side for the time being. 
 
 ![Edit One](assets/images/Edit1.jpeg)
 #### This is our first edit.
