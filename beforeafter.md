@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Editing Process
+title: Sample Editing Process
 permalink: /before-after/
 ---
 ## How Do I Look?
