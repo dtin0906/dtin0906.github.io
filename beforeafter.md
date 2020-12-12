@@ -40,6 +40,19 @@ As this is meant to be blog post for new hires to follow along with (as opposed 
 #### This is our second edit.
 >
 
+### Creating Paragraphs
+Wow! Even without editing the actual content, the piece already looks more put together. Now that we have a clear structure in place, we can start moving the individual sentences into a paragraph format within each section. This is also where we will highlight the angle of the piece. At the moment, I am not concerned with how the sentences or paragraphs flow together. I will address that shortly. 
+
+I believe that the first point in the *Getting Started and Tutorials* section would make a great lead so I am going to highlight it for easy reference at a later step in my editing process. 
+
+After moving individual sentences around a bit and selecting the lead, we can do another read through and take note of what me might think of for the content edit. I will be adding a "to-do" flag and a note after any areas I would like to revist. 
+
+It looks a bit messy, but fear not! The next step in the process is where all the heavy editing takes place and where we can start to create a bit more *flow*. 
+
+![Edit Three](assets/images/edit3.jpeg)
+#### This is our third edit. 
+> 
+
 
 
 
