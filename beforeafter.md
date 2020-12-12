@@ -56,5 +56,6 @@ It looks a bit messy, but fear not! The next step in the process is where all th
 ### Increasing Readability
 For this part of the process, I will be reading through the entire post and adding in transitions, intros, and the references we removed earlier on. If I notice that something could be added, I will add it in as a suggestion to the author. 
 
-### Content Makeover
-
+![Edit Four](assets/images/edit4.jpeg)
+> 
+#### This is our fourth edit.
