@@ -26,7 +26,8 @@ We know that this blog is being used for onboarding purposes, which means that t
 
 ![Edit One](assets/images/Edit1.jpeg)
 #### This is our first edit.
->  
+> 
+
 ### Building Structure
 Now that the text is in easily identifiable chunks, it is time to zone in on the individual sections and how they are structured. Currently, each heading has its own sub-heading. A suggestion I have is to remove all the subheadings as they are not supplying any support to the main headings. 
 
@@ -34,7 +35,7 @@ Next, let's take a look at the links at the top of each category. Although it wi
 
 As this is meant to be blog post for new hires to follow along with (as opposed to a checklist), we will also remove the bullet point lists. 
 
-1[Edit Two](assets/images/edit2.jpeg)
+![Edit Two](assets/images/edit2.jpeg)
 ### This is our second edit.
 >
 
