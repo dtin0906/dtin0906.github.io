@@ -5,6 +5,7 @@ permalink: /deploymentguide/
 ---
 # How To Deploy Child Applications 
 Identifying information has been redatcted and random characters have been input instead. 
+Images have also been removed. Typically, sections with multiple steps would include screenshots or diagrams.
 ## Prerequisites
 In order to deploy a child application, ensure you have the expected access to all development environments.
 
