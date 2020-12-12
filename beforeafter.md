@@ -23,7 +23,7 @@ At first read, I am delighted to see that the author has well defined categories
 From here, I can start to focus in on the structure of the post.  
 
 ### Creating Order
-We know that this blog is being used for onboarding purposes, which means that the *Get Started and Tutorials* section should be moved to the top, followed by *What is the Docker Engine*. This places *What is a Container?* last, since it is potentially repeating information already in the previous section. The reference section will be placed to the side for the time being. 
+We know that this blog is being used for onboarding purposes, which means that the *Get Started and Tutorials* section should be moved to the top, followed by *What is the Docker Engine*. This places *What is a Container?* last, since it is potentially repeating information already in the previous section and may be deleted later on. The reference section will be placed to the side for the time being. 
 
 ![Edit One](assets/images/Edit1.jpeg)
 #### This is our first edit.
