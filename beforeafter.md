@@ -10,7 +10,7 @@ This same approach is how I go about editing. Upon recieving a piece of writing,
 
 ## Dressing Up For Docker
 Please note that I cannot make further edits on the company's Confluence page (where the document lives). 
-All edits have been created using -Bear-, a plain text editor. 
+All edits have been created using *Bear*, a plain text editor. 
 
 ![Docker Image](/assets/images/dockersample.jpeg) 
 
@@ -21,10 +21,12 @@ At first read, I am delighted to see that the author has well defined categories
 
 From here, I can start to focus in on the structure of the post.  
 
-We know that this blog is being used for onboarding purposes, which means that the -Get Started and Tutorials- section should be moved to the top, followed by -What is the Docker Engine-. This places -What is a Container?- last, since it is potentially repeating information already in the previous section. The reference section will be placed to the side for the time being. 
+We know that this blog is being used for onboarding purposes, which means that the *Get Started and Tutorials* section should be moved to the top, followed by *What is the Docker Engine*. This places *What is a Container?* last, since it is potentially repeating information already in the previous section. The reference section will be placed to the side for the time being. 
 
 ![Edit One](assets/images/Edit1.jpeg)
 #### This is our first edit.
+>  
+
 
 
 
