@@ -5,8 +5,6 @@ permalink: /devina/
 ---
 # Ok, so who are you *really* ?  
 
-![Headshot](assets/images/headshot.jpg)
-
 Hey Ya’ll! 
 
 I am a Caribbean-born (Trinidad and Tobago), mid-twenties lady living in the midwestern region of the United States.
