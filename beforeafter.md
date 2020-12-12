@@ -36,7 +36,7 @@ Next, let's take a look at the links at the top of each category. Although it wi
 As this is meant to be blog post for new hires to follow along with (as opposed to a checklist), we will also remove the bullet point lists. 
 
 ![Edit Two](assets/images/edit2.jpeg)
-### This is our second edit.
+#### This is our second edit.
 >
 
 
