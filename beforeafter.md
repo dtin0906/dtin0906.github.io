@@ -99,6 +99,7 @@ Docker Engines form the base of the system and run on Linux machines, whereas Do
 
 ![Engine Componenets Diagram](assets/images/engine-components-flow.png)
 ##### https://docs.docker.com/engine/images/engine-components-flow.png
+>
 
 Docker containers have the ability to support any language and a variety of platforms. Because each container is independent, any number can be placed on a single server. As applications are created and expanded, containers are easily moved to other servers with minimal interruption. 
 
