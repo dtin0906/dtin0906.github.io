@@ -18,19 +18,19 @@ All edits have been created using *Bear*, a plain text editor.
 >
 
 ### Initial Thoughts
-At first read, I am delighted to see that the author has well defined categories of points and that each of the bullets are complete thoughts. Since I know that this post will be part of an educational blog for new hires at the company, I already have enough information to form an angle.  
+At first read, I am delighted to see that the author has well defined categories of points and that each of the bullets are complete thoughts. Since I know that this post will be part of an educational blog for new hires at the company, I also have enough information to form an angle.  
 
 From here, I can start to focus in on the structure of the post.  
 
 ### Creating Order
-We know that this blog is being used for onboarding purposes, which means that the *Get Started and Tutorials* section should be moved to the top, followed by *What is the Docker Engine*. This places *What is a Container?* last, since it is potentially repeating information already in the previous section and may be deleted later on. The reference section will be placed to the side for the time being. 
+We know that this blog is being used for onboarding purposes, which means that the *Get Started and Tutorials* section should be moved to the top, followed by *What is the Docker Engine*. This places *What is a Container?* at the end of the document, since it is repeating information and may be deleted later on. The reference section will be placed to the side for the time being. 
 
 ![Edit One](assets/images/Edit1.jpeg)
 #### This is our first edit.
 > 
 
 ### Building Structure
-Now that the text is in easily identifiable chunks, it is time to zone in on the individual sections and how they are structured. Currently, each heading has its own sub-heading. A suggestion I have is to remove all the subheadings as they are not supplying any support to the main headings. 
+Now that the text is in easily identifiable chunks, it is time to zone in on the individual sections and start to create a more meaningful structure. Currently, each heading has its own sub-heading. Unfortunately, the subheadings are not generating any support for the main headings and as such, should be removed.
 
 Next, let's take a look at the links at the top of each category. Although it will be necessary for the reader to follow these links, there is no real context surrounding them. For now, we will move the links out of the main body of text and into the references section that has been set aside - making sure to note which section each link belonged to. 
 
@@ -65,3 +65,5 @@ It has come time to do another read through - from beginning to end. This time, 
 
 ![Copy Edit 1](assets/images/copyedit1-two.jpeg)
 ![Copy Edit 2](assets/images/copyedit2-two.jpeg)
+
+### Final Touches
