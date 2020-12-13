@@ -9,7 +9,7 @@ Picture this, your friend (we'll call them Jordan) is preparing to go to a priva
 This same approach is how I go about editing. Upon recieving a piece of writing, I try to envision the author as my friend asking about their wardrobe choices. This helps me put the author's vision first and center any additions, withdrawals, and changes around their voice. Follow along with me as I walk you through my process for transforming an unimaginitive list of thoughts into a well dressed blog post. 
 
 ## Dressing Up For Docker
-Please note that I cannot make further edits on the company's Confluence page (where the document lives). 
+Please note that this is a sample I have created based on similar pieces I have worked on.
 All edits have been created using *Bear*, a plain text editor. 
 
 ![Docker Image](/assets/images/dockersample.jpeg) 
@@ -67,3 +67,57 @@ It has come time to do another read through - from beginning to end. This time, 
 ![Copy Edit 2](assets/images/copyedit2-two.jpeg)
 
 ### Final Touches
+
+At this point in the process, I am just adding in anything the author (in this case, myself) has come back to me with. 
+Below, you will find the finished blog post in its entirety. 
+
+---  
+
+![](DockerBlob/dockerlogoblog.png)
+
+# Getting Started With Docker 
+## Setup
+As a large multi-team company, it is important for each engineer to be able to develop and collaborate with other teams efficiently. Through Docker, it is possible to have a single environment for development, testing, and production. This allows containerized applications to be easily moved from development on to higher environments without worrying about compatibility issues with other systems. In other words, Docker allows teams to fix problems without taking an entire server down - just remove the container, fix the issue, and return.
+
+With a little setup, you will be able to use Docker to make faster updates and catch issues sooner. 
+
+>  To set up Docker on your computer, visit [Getting Started With Docker]( https://www.docker.com/get-started)  
+
+>  If your computer doesn’t already have Docker installed, navigate to [Docker Desktop](https://www.docker.com/products/docker-desktop) and select *download for Mac* . Follow the steps in the installation guide that pops up.   
+
+![](DockerBlob/dockerdesktop.jpeg)
+
+
+## Docker System Basics
+The main Docker components are engines and containers.
+
+If you are not sure what a container or Docker Engine is, please read through these guides prior to continuing. 
+[What is a Container?](https://www.docker.com/resources/what-container)
+[What is Docker Engine?](https://www.docker.com/products/container-runtime)
+
+Docker Engines form the base of the system and run on Linux machines, whereas Docker containers provide an extra layer of security (even between containers hosted on the same engine). The containers are created on and run by these engines; each container holds all parts of a single application. Containers can be totally isolated or configured to communicate with other containers on the same or different engines. 
+
+![](DockerBlob/engine-components-flow.png)
+##### https://docs.docker.com/engine/images/engine-components-flow.png
+
+Docker containers have the ability to support any language and a variety of platforms. Because each container is independent, any number can be placed on a single server. As applications are created and expanded, containers are easily moved to other servers with minimal interruption. 
+
+## Recommended Learning
+If you are looking for more advanced training with Docker, check out the resources below. 
+
+#### Docker Blog
+The official blog for Docker provides endless articles covering everything from developing with Docker to latest updates and news. 
+An article that we recommend starting with is [API Server For Docker Infrastructure](https://www.docker.com/blog/api-server-for-docker-infrastructure/)
+Navigate to [Docker Blog](https://www.docker.com/blog/) to learn more  
+
+#### Docker Playground 
+This resource requires no downloading or prior experience with Docker. 
+Use Docker Playground to practice running Docker commands in a Linux terminal.
+
+Navigate to [Learn Docker](https://www.docker.com/101-tutorial) and follow the steps under *Play With Docker*
+
+![](DockerBlob/dockerplayground.jpeg)
+
+
+
+
