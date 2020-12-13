@@ -98,7 +98,9 @@ If you are not sure what a container or Docker Engine is, please read through th
 [What is a Container?](https://www.docker.com/resources/what-container)
 [What is Docker Engine?](https://www.docker.com/products/container-runtime)
 
-Docker Engines form the base of the system and run on Linux machines, whereas Docker containers provide an extra layer of security (even between containers hosted on the same engine). The containers are created on and run by these engines; each container holds all parts of a single application. Containers can be totally isolated or configured to communicate with other containers on the same or different engines. 
+Docker Engines form the base of the system and run on Linux machines, whereas Docker containers provide an extra layer of security (even between containers hosted on the same engine). 
+
+The containers are created on and run by Docker Engines. Each of these containers are capable of holding all parts of a single application.Containers can be totally isolated or configured to communicate with other containers on the same or different engines. 
 
 ![Engine Componenets Diagram](assets/images/engine-components-flow.png)
 >
