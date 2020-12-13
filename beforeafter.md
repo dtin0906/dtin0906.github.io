@@ -81,11 +81,11 @@ As a large multi-team company, it is important for each engineer to be able to d
 
 With a little setup, you will be able to use Docker to make faster updates and catch issues sooner. 
 
->  To set up Docker on your computer, visit [Getting Started With Docker]( https://www.docker.com/get-started)  
+>  To set up Docker on your computer, visit [Getting Started With Docker](https://www.docker.com/get-started)  
 
 >  If your computer doesn’t already have Docker installed, navigate to [Docker Desktop](https://www.docker.com/products/docker-desktop) and select *download for Mac* . Follow the steps in the installation guide that pops up.   
 
-![](DockerBlob/dockerdesktop.jpeg)
+![Docker Desktop](assets/images/dockerdesktop.jpeg)
 
 
 ## Docker System Basics
@@ -97,7 +97,7 @@ If you are not sure what a container or Docker Engine is, please read through th
 
 Docker Engines form the base of the system and run on Linux machines, whereas Docker containers provide an extra layer of security (even between containers hosted on the same engine). The containers are created on and run by these engines; each container holds all parts of a single application. Containers can be totally isolated or configured to communicate with other containers on the same or different engines. 
 
-![](DockerBlob/engine-components-flow.png)
+![Engine Componenets Diagram](assets/images/engine-components-flow.png)
 ##### https://docs.docker.com/engine/images/engine-components-flow.png
 
 Docker containers have the ability to support any language and a variety of platforms. Because each container is independent, any number can be placed on a single server. As applications are created and expanded, containers are easily moved to other servers with minimal interruption. 
@@ -116,7 +116,7 @@ Use Docker Playground to practice running Docker commands in a Linux terminal.
 
 Navigate to [Learn Docker](https://www.docker.com/101-tutorial) and follow the steps under *Play With Docker*
 
-![](DockerBlob/dockerplayground.jpeg)
+![Docker Playground Screenshot](assets/images/dockerplayground.jpeg)
 
 
 
