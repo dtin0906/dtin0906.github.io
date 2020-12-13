@@ -77,7 +77,10 @@ Below, you will find the finished blog post in its entirety.
 
 # Getting Started With Docker 
 ## Setup
-As a large multi-team company, it is important for each engineer to be able to develop and collaborate with other teams efficiently. Through Docker, it is possible to have a single environment for development, testing, and production. This allows containerized applications to be easily moved from development on to higher environments without worrying about compatibility issues with other systems. In other words, Docker allows teams to fix problems without taking an entire server down - just remove the container, fix the issue, and return.
+As a large multi-team company, it is important for each engineer to be able to develop and collaborate with other teams efficiently.
+
+Through Docker, it is possible to have a single environment for development, testing, and production. This allows containerized applications to be easily moved from development on to higher environments without worrying about compatibility issues with other systems. 
+In other words, Docker allows teams to fix problems without taking an entire server down - just remove the container, fix the issue, and return.
 
 With a little setup, you will be able to use Docker to make faster updates and catch issues sooner. 
 
