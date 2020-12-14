@@ -3,6 +3,8 @@ layout: page
 title: About Devina
 permalink: /devina/
 ---
+![Headshot](assets/images/circle-cropped.png)
+<img src="assets/images/circle-cropped.png" alt="Headshot of Devina" width="100" height="100" />
 # Ok, so who are you *really* ?  
 
 Hey Ya’ll! 
