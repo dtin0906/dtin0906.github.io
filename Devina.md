@@ -21,7 +21,7 @@ I am an early bird by nature and part of my morning routine includes either list
 - [Greater Than Code](https://www.greaterthancode.com/#:~:text=Greater%20Than%20Code%20is%20a,of%20software%20development%20and%20technology.)
     - This podcast covers a myriad of topics that all tie back to creating a diverse and sustainable culture at tech companies.
 - [Old Fashioned On Purpose](https://www.oldfashionedonpurpose.com/#:~:text=Welcome%20to%20the%20Old%2DFashioned%20On%20Purpose%20Podcast&text=Join%20best%2Dselling%20author%20and,a%20decade%20of%20modern%20homesteading.)
-    - Old Fashioned On Purpose is a soothing podcast that reminds me to enjoy simplicity
+    - *Old Fashioned On Purpose* is a soothing podcast that reminds me to enjoy simplicity
 
 ##### Blogs
 - [I'd Rather Be Writing](https://idratherbewriting.com/)
