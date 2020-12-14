@@ -68,7 +68,8 @@ It has come time to do another read through - from beginning to end. This time, 
 
 ### Final Touches
 
-At this point in the process, I am just adding in anything the author (in this case, myself) has come back to me with. 
+At this point in the process, I am adding in anything the author (in this case, myself) has come back to me with and doing a final read through. 
+
 Below, you will find the finished blog post in its entirety. 
 
 ---  
