@@ -1,6 +1,6 @@
 # Resume
-## Devina Lee Sheng Tin
-### Application Software Developer
+## Devina Lee Sheng Tin, CSM
+### Certified Scrum Master | Application Software Developer
 
 #### dleeshengtin@gmail.com
 #### 314 605-4220
@@ -11,7 +11,7 @@
 #### Centene Corporation | St. Louis, Missouri
 #### Medical insurance corporation
 #### 07/2019 - Ongoing
- - I work remotely on an Agile team to create robust and scalable medical applications. Specifically, my day to day development is done in Angular and Golang, using DevOps tools such as Docker, Kubernetes, and Grafana in conjunction with Jenkins for streamlining and partially automating deployments, tests, etc.
+ - I work remotely on a Scrum team to create robust and scalable medical applications. Specifically, my day to day development is done in Angular and Golang, using DevOps tools such as Docker, Kubernetes, and Grafana in conjunction with Jenkins for streamlining and partially automating deployments, tests, etc.
  - I also run the Technical Writing Guild at Centene which teaches employees best practices for documenting API’s, UIs, design concepts, manuals and more.
 
 ### Apprentice Software Developer, Centene Corporation
@@ -55,6 +55,12 @@
 
 ---
 ## Education
+
+### Certified Scrum Master, (CSM)
+
+Scrum Alliance 
+
+2020
 ### Computer Programming
 
 Launchcode Foundation
