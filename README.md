@@ -1,40 +1,29 @@
----
-layout: page
-title: About Devina
-permalink: /devina/
----
-![Headshot](assets/images/circle-cropped.png)
+# Portfolio
+Although most of my technical writing work cannot be displayed per company policies,
+I am happy to provide links and a brief description of blogs and articles that I have worked on 
+at the U.S. Green Building Council and Bike Stop Cafe & Outpost. 
 
-# Ok, so who are you *really* ?  
+## U.S. Green Building Council 
+Much of the technical writing I was in charge of at USGBC was through their custom wordpress blog. 
 
-Hey Ya’ll! 
+I was in charge of creating content and editing the code of the blog to fit their brand as needed.
+Below are a couple links to blog posts and event articles I created.
 
-I am a Caribbean-born (Trinidad and Tobago), mid-twenties lady living in the midwestern region of the United States.
+* [Event Sign Up Page](https://usgreenbuildingcouncilstlouisregionalchapter.wildapricot.org/widget/event-2902897)
+* [Blog Post 1](https://www.usgbc-mogateway.org/2018/01/)
+* [Blog Post 2](https://www.usgbc-mogateway.org/2018/04/)
 
-During the day, I work as a full-time on an Agile Scrum team. I am currently seeking a position as a Scrum Master. In the evenings, I am typically curled up on my couch fulfilling digital illustration orders for my company, Dots. by Dev [(dotsbydev.com)](https://dotsbydev.com/).
+I was also in charge of writing monthly newsletters and sending them out using MailChimp.
+Below are a few links to archived web versions of the email newsletters I created. 
 
-Outside of work, you can find me tending to my plant children (indoors or in my very large vegetable garden), bicycling on trails, paddle-boarding, and working on or traveling in my Jeep Wrangler. 
+* [January Newsletter](https://myemail.constantcontact.com/USGBC-Missouri-Gateway-Chapter-January-E-news.html?soid=1102099479812&aid=9o0PXMesZA8)
+* [February Newsletter](https://myemail.constantcontact.com/USGBC-Missouri-Gateway-Chapter-February-E-news.html?soid=1102099479812&aid=Sv0oCbvv2wA)
+* [March Newsletter](https://myemail.constantcontact.com/USGBC-Missouri-Gateway-Chapter-March-E-news.html?soid=1102099479812&aid=COGxp-6lc58)
 
-I am an early bird by nature and part of my morning routine includes either listening to an episode of a podcast or reading a blog post. I'll leave the links to my favorite podcasts and blogs below. 
+## Bike Stop Cafe & Outpost
+At Bike Stop Cafe, I was in charge of creating a monthly newsletter that was sent out via MailChimp. 
+The cafe wanted a "home-made" feel to the site. 
+Below are a couple links to archived web versions of the newsletters. 
 
-##### Podcasts 
-- [On The Ledge](https://podcasts.apple.com/us/podcast/on-the-ledge/id1211183700)
-    - A lovely British podcast teaching you how to care for houseplants.
-- [Greater Than Code](https://www.greaterthancode.com/#:~:text=Greater%20Than%20Code%20is%20a,of%20software%20development%20and%20technology.)
-    - This podcast covers a myriad of topics that all tie back to creating a diverse and sustainable culture at tech companies.
-- [Old Fashioned On Purpose](https://www.oldfashionedonpurpose.com/#:~:text=Welcome%20to%20the%20Old%2DFashioned%20On%20Purpose%20Podcast&text=Join%20best%2Dselling%20author%20and,a%20decade%20of%20modern%20homesteading.)
-    - *Old Fashioned On Purpose* is a soothing podcast that reminds me to enjoy simplicity
-
-##### Blogs
-- [I'd Rather Be Writing](https://idratherbewriting.com/)
-    - Ok, so this is a bit of a nerdy pick, but I'd be lying if I said I don't visit this blog each week for pointers on documenting APIs.
-- [The Home Edit](https://www.thehomeedit.com/blog/)
-    - Blame it on my type A personality, but I absolutely love learning new organization tips.
-- [She Can Code](https://shecancode.io/shecancode-blog)
-    - An inspiring blog centered around women in tech. 
-
-Thanks for stopping by and taking the time to get to know me. 
-
-Joyfully,
-
-Devina
+* [Newsletter 1](https://mailchi.mp/fab6ed8489d8/start-the-new-year-at-bike-stop-cafe-1808777?e=6a1d99880e)
+* [Newsletter 2](https://us11.campaign-archive.com/?e=&u=640a9b4eed656beb5119d8687&id=2930fa962a)
