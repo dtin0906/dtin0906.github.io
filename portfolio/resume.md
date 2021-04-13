@@ -25,7 +25,6 @@
 #### U.S. Green Building Council
 #### The U.S. Green Building Council runs the LEED program which is the leading program for certifying green buildings and communities worldwide. 
 #### 01/2018 - 06/2018 | St. Louis, Missouri
-
  - My role at the U.S. Green Building Council was comprised, in majority, of designing content for their website (developed using Wordpress) and managing their social media accounts and email newsletters through Mailchimp and Wild Apricot. On occasion, I was also in charge of coordinating and overseeing events held by the organization.
 - This position expanded upon my marketing and communications skillset.
 
