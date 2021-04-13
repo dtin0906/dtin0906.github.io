@@ -26,14 +26,15 @@
 #### The U.S. Green Building Council runs the LEED program which is the leading program for certifying green buildings and communities worldwide. 
 #### 01/2018 - 06/2018 | St. Louis, Missouri
 
- - My role at the U.S. Green Building Council was comprised, in majority, of designing content for their website (developed using Wordpress) and managing their social media accounts and email newsletters through Mailchimp and Wild Apricot. On occasion, I was also in charge of coordinating and overseeing events held by the organization
-- This position expanded upon my marketing and communications skillset
+ - My role at the U.S. Green Building Council was comprised, in majority, of designing content for their website (developed using Wordpress) and managing their social media accounts and email newsletters through Mailchimp and Wild Apricot. On occasion, I was also in charge of coordinating and overseeing events held by the organization.
+- This position expanded upon my marketing and communications skillset.
 
-### Content Creator / Barista
+### Shift Lead
 #### Bike Stop Cafe & Outpost | Chesterfield, Missouri
 #### 01/2018 - 01/2019
 ##### Cafe and bicycle repair shop on the Katy Trail
 - My primary responsibility was to act as a stand in manager to ensure the cafe ran smoothly in the absence of the cafe owners. This included training new and existing employees, coaching staff when necessary, and stepping in to work as a barista as needed.
+- Once a month I would be in charge of creating and sending out the newsletter via MailChimp. You can find samples of these in my Portfolio page.
 
 ### Charity Ambassador / Floor Lead 
 #### LUSH FRESH HANDMADE COSMETICS | St. Louis, Missouri
