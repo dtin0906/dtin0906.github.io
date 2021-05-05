@@ -12,7 +12,7 @@
 #### Medical insurance corporation
 #### 07/2019 - Ongoing
  - My primary work is as a remote devleloper on a Scrum team. I create robust and scalable medical applications using full-stack devleopment. Specifically, my day to day development is done in Angular and Golang, using DevOps tools such as Docker, Kubernetes, and Grafana in conjunction with Jenkins for streamlining and partially automating deployments, tests, etc.
- - The other half of my job is training to be a Scrum Master. This includes facilitating daily scrum ceremonies, monitorign reports through Jira, working with Product Owners to refine and plan work and removing impediments for the team.
+ - The other half of my job is training to be a Scrum Master. This includes facilitating daily scrum ceremonies, monitoring reports through Jira, working with Product Owners to refine and plan work and removing impediments for the team.
  - I also started and run the Technical Writing Guild at Centene which teaches employees best practices for documenting API’s, UIs, design concepts, manuals and more.
 
 ### Apprentice Software Developer, Centene Corporation

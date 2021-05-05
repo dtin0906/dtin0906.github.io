@@ -9,13 +9,15 @@ permalink: /devina/
 
 Hey Ya’ll! 
 
-I am a Caribbean-born (Trinidad and Tobago), mid-twenties lady living in the midwestern region of the United States.
+Thanks for stopping by.
 
-During the day, I work on an Agile Scrum team as both a software developer and scrum master in training. I am currently seeking a position as a Scrum Master or Customer Service Manager. 
+During the day, I work on an Agile Scrum team as both a software developer and scrum master in training. I am currently seeking a position as a Scrum Master or Project Manager. 
 
-Outside of work, you can find me tending to my plant children (indoors or in my very large vegetable garden), bicycling on trails, paddle-boarding, and working on or traveling in my Jeep Wrangler. 
+I am detail oriented and strive to communicate clearly and efficiently, whether that be through the written or spoken word.
 
-I am an early bird by nature and part of my morning routine includes either listening to an episode of a podcast or reading a blog post. I'll leave the links to my favorite podcasts and blogs below. 
+Outside of work, you can find me tending to my garden, bicycling on trails, paddle-boarding, and working on or traveling in my Jeep Wrangler. 
+
+As an early bird by nature, part of my morning routine includes listening to an episode of a podcast or reading a blog post. If you find yourself looking for some new entertainment, check out my favorite podcasts and blogs below.
 
 ##### Podcasts 
 - [On The Ledge](https://podcasts.apple.com/us/podcast/on-the-ledge/id1211183700)
