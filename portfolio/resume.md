@@ -72,6 +72,13 @@ targets
 Scrum Alliance 
 
 2020
+
+## A.A. Business Administration 
+
+Saint Louis Community College
+
+ongoing
+
 ### Computer Programming
 
 Launchcode Foundation
@@ -84,10 +91,7 @@ Earthdance Farms
 
 05/16 - 09/17 
 
-### General Studies
 
-A.A. Business Administration (in progress)
-Saint Louis Community College
 
 
 ---
