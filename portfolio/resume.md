@@ -118,8 +118,7 @@ Saint Louis Community College
 - TECHNICAL COMMUNICATIONS
 
 ##### Customer Service
-- Empathy
-- Analytical 
-- Constantly Inspecting and Adapting processes and techniques
-- Open to feedback
+- ANALYTICAL 
+- INSPECTING AND ADAPTING PROCESSES
+- OPEN TO FEEDBACK
 
