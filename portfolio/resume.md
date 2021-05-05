@@ -40,7 +40,7 @@ Golang
 ### Shift Lead
 #### Bike Stop Cafe & Outpost | Chesterfield, Missouri
 #### 01/2018 - 01/2019
-##### Cafe and bicycle repair shop on the Katy Trail
+#### Cafe and bicycle repair shop on the Katy Trail
 - Wrote and designed the monthly newsletter that was sent out through MailChimp along with developing and managing social media content for Instagram and Facebook
 - Managed baristas and back of house staff to ensure the café operated
 smoothly
