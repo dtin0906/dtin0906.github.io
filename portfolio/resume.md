@@ -73,7 +73,7 @@ Scrum Alliance
 
 2020
 
-## A.A. Business Administration 
+### A.A. Business Administration 
 
 Saint Louis Community College
 
