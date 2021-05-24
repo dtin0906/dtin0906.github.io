@@ -1,5 +1,5 @@
 # Portfolio
-Although most of my technical writing work cannot be displayed per company policies,
+Although my technical writing work for Centene cannot be displayed per company policies,
 I am happy to provide links and a brief description of blogs and articles that I have worked on 
 at the U.S. Green Building Council and Bike Stop Cafe & Outpost. 
 
