@@ -11,7 +11,7 @@ Hey Ya’ll!
 
 Thanks for stopping by.
 
-During the day, I work on an Agile Scrum team as both a software developer and scrum master in training. I am currently seeking a position as a Scrum Master or Project Manager. 
+During the day, I work on an Agile Scrum team as both a software developer and scrum master in training. 
 
 I am detail oriented and strive to communicate clearly and efficiently, whether that be through the written or spoken word.
 
