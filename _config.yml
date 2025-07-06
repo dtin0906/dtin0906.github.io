@@ -1,10 +1,10 @@
 title: Devina Lee Sheng Tin
 email: dleeshengtin@gmail.com
-description: >- 
-  This site is a designed to serve as a portfolio for Devina Lee Sheng Tin
+description: >-
+  This site is designed to serve as a portfolio for Devina Lee Sheng Tin.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  dtin0906
+url: "https://dtin0906.github.io" # the base hostname & protocol for your site
+github_username: dtin0906
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
@@ -12,13 +12,7 @@ plugins:
   - jekyll-feed
 
 # Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
+# Uncomment below if you want to exclude these during build:
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/

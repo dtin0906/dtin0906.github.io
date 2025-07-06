@@ -1,29 +1,47 @@
-# Portfolio
-Although my technical writing work for Centene cannot be displayed per company policies,
-I am happy to provide links and a brief description of blogs and articles that I have worked on 
-at the U.S. Green Building Council and Bike Stop Cafe & Outpost. 
+# Professional Portfolio
 
-## U.S. Green Building Council 
-Much of the technical writing I was in charge of at USGBC was through their custom wordpress blog. 
+Welcome to my portfolio. I am a certified Scrum Master with over 5 years of experience leading Agile teams that deliver secure, cloud-native solutions in AWS and Kubernetes environments. My work blends a strong foundation in Agile frameworks with a passion for clear technical communication, AI adoption, and building collaborative remote cultures.
 
-I was in charge of creating content and editing the code of the blog to fit their brand as needed.
-Below are a couple links to blog posts and event articles I created.
+---
 
-* [Event Sign Up Page](https://usgreenbuildingcouncilstlouisregionalchapter.wildapricot.org/widget/event-2902897)
-* [Blog Post 1](https://www.usgbc-mogateway.org/2018/01/)
-* [Blog Post 2](https://www.usgbc-mogateway.org/2018/04/)
+## Agile Leadership and Cloud Platforms
 
-I was also in charge of writing monthly newsletters and sending them out using MailChimp.
-Below are a few links to archived web versions of the email newsletters I created. 
+I have guided cross-functional teams working on:
 
-* [January Newsletter](https://myemail.constantcontact.com/USGBC-Missouri-Gateway-Chapter-January-E-news.html?soid=1102099479812&aid=9o0PXMesZA8)
-* [February Newsletter](https://myemail.constantcontact.com/USGBC-Missouri-Gateway-Chapter-February-E-news.html?soid=1102099479812&aid=Sv0oCbvv2wA)
-* [March Newsletter](https://myemail.constantcontact.com/USGBC-Missouri-Gateway-Chapter-March-E-news.html?soid=1102099479812&aid=COGxp-6lc58)
+- AWS Cloud infrastructure and automation
+- Kubernetes-based deployments
+- Application development for enterprise platforms
+- Infrastructure as Code practices and DevOps workflows
 
-## Bike Stop Cafe & Outpost
-At Bike Stop Cafe, I was in charge of creating a monthly newsletter that was sent out via MailChimp. 
-The cafe wanted a "home-made" feel to the site. 
-Below are a couple links to archived web versions of the newsletters. 
+My leadership approach emphasizes transparency, continuous improvement, and measurable outcomes. In my recent roles, I facilitated sprint planning, daily standups, and retrospectives while supporting teams in adopting tools such as Jira, Confluence, and Miro.
 
-* [Newsletter 1](https://mailchi.mp/fab6ed8489d8/start-the-new-year-at-bike-stop-cafe-1808777?e=6a1d99880e)
-* [Newsletter 2](https://us11.campaign-archive.com/?e=&u=640a9b4eed656beb5119d8687&id=2930fa962a)
+---
+
+## AI-Enhanced Workflow
+
+I am an advocate for leveraging AI to improve delivery and collaboration. My toolbox includes:
+
+- ChatGPT for documentation drafts and knowledge sharing
+- GitHub Copilot to assist teams with code examples and automation scripts
+- Jira AI to streamline backlog refinement and reporting
+
+---
+
+## Technical Writing and Documentation
+
+In addition to my Agile work, I have produced and edited technical content that supports product adoption and team alignment. While proprietary deliverables for Centene cannot be shared publicly, I am glad to discuss my experience creating:
+
+- User guides and process documentation
+- Knowledge base articles
+- Release notes and executive reports
+
+---
+
+## Contact
+
+If you’d like to learn more about my experience or request additional examples of my work, please feel free to connect:
+
+- **Email:** [dleeshengtin@gmail.com](mailto:dleeshengtin@gmail.com)
+- **LinkedIn:** [View Profile](https://www.linkedin.com/in/devina)
+
+---

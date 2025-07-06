@@ -3,5 +3,9 @@
         "activityBar.background": "#0B323E",
         "titleBar.activeBackground": "#0F4656",
         "titleBar.activeForeground": "#F5FBFD"
-    }
+    },
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.wordWrap": "on",
+    "files.trimTrailingWhitespace": true
 }

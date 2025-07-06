@@ -3,40 +3,38 @@ layout: page
 title: About Devina
 permalink: /devina/
 ---
+
 ![Headshot](assets/images/circle-cropped.png)
 
-# Ok, so who are you *really* ?  
+# Ok, so who are you *really*?
 
-Hey Ya’ll! 
+Hey y’all,
 
 Thanks for stopping by.
 
-During the day, I work on an Agile Scrum team as both a software developer and scrum master in training. 
+By day, I’m a Lead Scrum Master with a background in software development. I’m passionate about building collaborative, high-trust teams that deliver cloud-native solutions and embrace continuous improvement. Clear communication and thoughtful leadership are at the heart of everything I do.
 
-I am detail oriented and strive to communicate clearly and efficiently, whether that be through the written or spoken word.
+Outside of work, you’ll usually find me in my garden or with my nose buried in a book (I read around 100 books a year—no exaggeration). I also love going to author signings and book festivals, exploring trails, paddle-boarding, and tinkering with my Jeep Wrangler whenever I have the chance.
 
-Outside of work, you can find me tending to my garden, bicycling on trails, paddle-boarding, and working on or traveling in my Jeep Wrangler. 
+As an early bird, I start most mornings with a cup of coffee and an episode of a favorite podcast or a new blog post. If you’re looking for something interesting to read or listen to, here are a few of my go-to picks:
 
-As an early bird by nature, part of my morning routine includes listening to an episode of a podcast or reading a blog post. If you find yourself looking for some new entertainment, check out my favorite podcasts and blogs below.
-
-##### Podcasts 
+##### Podcasts
 - [On The Ledge](https://podcasts.apple.com/us/podcast/on-the-ledge/id1211183700)
-    - A lovely British podcast teaching you how to care for houseplants.
-- [Greater Than Code](https://www.greaterthancode.com/#:~:text=Greater%20Than%20Code%20is%20a,of%20software%20development%20and%20technology.)
-    - This podcast covers a myriad of topics that all tie back to creating a diverse and sustainable culture at tech companies.
-- [Old Fashioned On Purpose](https://www.oldfashionedonpurpose.com/#:~:text=Welcome%20to%20the%20Old%2DFashioned%20On%20Purpose%20Podcast&text=Join%20best%2Dselling%20author%20and,a%20decade%20of%20modern%20homesteading.)
-    - *Old Fashioned On Purpose* is a soothing podcast that reminds me to enjoy simplicity
+  A lovely British podcast teaching you how to care for houseplants.
+- [Greater Than Code](https://www.greaterthancode.com/)
+  A thoughtful series on creating a diverse, sustainable culture in tech.
+- [Old Fashioned On Purpose](https://www.oldfashionedonpurpose.com/)
+  A soothing reminder to slow down and enjoy simplicity.
 
 ##### Blogs
 - [I'd Rather Be Writing](https://idratherbewriting.com/)
-    - Ok, so this is a bit of a nerdy pick, but I'd be lying if I said I don't visit this blog each week for pointers on documenting APIs.
+  My favorite place for tips on documenting APIs and improving technical communication.
 - [The Home Edit](https://www.thehomeedit.com/blog/)
-    - Blame it on my type A personality, but I absolutely love learning new organization tips.
+  Because who doesn’t love a well-organized pantry?
 - [She Can Code](https://shecancode.io/shecancode-blog)
-    - An inspiring blog centered around women in tech. 
+  An inspiring blog celebrating women in tech.
 
-Thanks for stopping by and taking the time to get to know me. 
+Thanks for stopping by and taking the time to get to know me.
 
 Joyfully,
-
 Devina

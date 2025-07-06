@@ -1,128 +1,119 @@
-# Resume
-## Devina Lee Sheng Tin, CSM
-### Certified Scrum Master | Application Software Developer
+# Devina Lee Sheng Tin
+**Lead Scrum Master**
+📞 314-605-4220
+✉️ dleeshengtin@gmail.com
+🌐 [LinkedIn](https://www.linkedin.com/in/devinaleeshengtin/)
+Remote | St. Louis, USA
 
-#### dleeshengtin@gmail.com
-#### 314 605-4220
-#### REMOTE | United States
 ---
-## Experience
+
+## Summary
+Certified Scrum Master and former Software Developer with over 5 years of experience guiding cross-functional teams across AWS Cloud, Kubernetes, Axway integration, and enterprise application development. Skilled in creating high-performing Agile environments that deliver scalable solutions. Known for successfully transitioning teams to Scrum and driving measurable improvements in delivery and collaboration. Proficient in Jira, Confluence, and Miro to enable transparency and alignment for distributed teams.
+
+---
+
+## Key Achievements
+- **Team Velocity Growth:** Increased team velocity by 25% within six months through effective retrospectives.
+- **Successful Scrum Transition:** Transitioned two teams to Scrum from waterfall and Kanban in under one month, improving delivery cadence by 20%.
+- **Dashboard Development:** Developed KPI dashboards in Jira to enhance transparency and tracking for 5+ distributed teams.
+- **Reporting Excellence:** Consistently delivered bi-weekly sprint reports, including burn downs and velocity metrics.
+
+---
+
+## Professional Experience
+
+### Lead Scrum Master
+**Centene Corporation** | St. Louis, MO
+*06/2025 – Present*
+- Facilitated Sprint Planning with AWS Cloud, Axway, and Kubernetes teams to align on goals and define clear acceptance criteria.
+- Led daily standups to surface blockers and maintain focus across distributed teams.
+- Organized backlog refinement workshops to ensure high-quality, ready backlog items.
+- Drove continuous improvement through retrospectives, implementing actionable experiments.
+- Developed KPI dashboards in Jira and Confluence to track sprint health and throughput.
+- Published monthly team newsletters and all customer-facing communications.
+
+---
+
+### Senior Scrum Master
+**Centene Corporation** | St. Louis, MO
+*01/2024 – 06/2025*
+- Transitioned two teams from Kanban to Scrum within one month.
+- Facilitated retrospectives that increased team velocity by 25%.
+- Supported Product Owners with backlog refinement and story clarity.
+- Led daily scrums to coordinate dependencies and drive accountability.
+- Used Miro to enable remote planning and collaboration.
+
+---
+
+### Scrum Master
+**Centene Corporation** | St. Louis, MO
+*07/2022 – 12/2023*
+- Guided distributed teams through sprint ceremonies and backlog refinement.
+- Facilitated sprint reviews with stakeholders.
+- Maintained Jira dashboards tracking key metrics such as velocity and work item aging.
+
+---
+
 ### Application Software Developer
-#### Centene Corporation | St. Louis, Missouri
-#### Medical insurance corporation
-#### 07/2019 - Ongoing
-- Collaborated remotely on an Agile Scrum team to create robust and
-scalable medical applications as a full-stack software developer.
-- Founded the Technical Writing Guild at Centene which teaches employees
-best practices for technical documentation.
-- Recieved hands-on Scrum Master training through facilitation of Scrum
-Ceremonies and working in conjunction with Product Owners
-
-### Apprentice Software Developer, Centene Corporation
-#### LaunchCode Foundation | St. Louis, Missouri
-#### This apprenticeship was at Centene Corporation through the Launchcode Foundation 
-#### 01/2019 - 07/2019
- - Developed medical applications on two Scrum teams using Angular and
-Golang
-
-### Education & Communications Intern
-#### U.S. Green Building Council
-#### The U.S. Green Building Council runs the LEED program which is the leading program for certifying green buildings and communities worldwide. 
-#### 01/2018 - 06/2018 | St. Louis, Missouri
-- Designed content for their website through WordPress
-- Managed social media accounts and email newsletters through Mailchimp and Wild Apricot
-- Created handouts for events
-- Sat on the board for the Green Schools Program
-- Judged and presented awards to schools in Missouri who participated in the annual Green Schools Event
-- Coordinated and facilitated multiple events for the organization
-- Helped with administrative tasks such as scheduling meetings, answeringand making calls, taking notes, and filing
-
-### Shift Lead
-#### Bike Stop Cafe & Outpost | Chesterfield, Missouri
-#### 01/2018 - 01/2019
-#### Cafe and bicycle repair shop on the Katy Trail
-- Wrote and designed the monthly newsletter that was sent out through MailChimp along with developing and managing social media content for Instagram and Facebook
-- Managed baristas and back of house staff to ensure the café operated
-smoothly
-
-### Charity Ambassador / Floor Lead 
-#### LUSH FRESH HANDMADE COSMETICS | St. Louis, Missouri
-#### 10/2014 - 12/2017
-##### Natural cosmetics retail shop
-- Coached and oversaw staff members during shifts
--S ourced new partner organizations by connecting with charitableorganizations in my region
-- Facilitated charitable events, presented new training tools, and set sales
-targets
-- Monitored Reports on sales to present to the regional director
-
-### Keyholder
-#### Apricot Ln. Boutique
-#### 06/2013 - 06/2014
-##### Clothing store 
-- Trained employees to help in providing a pleasant customer experience and learning store tasks. 
-- Placed orders for new clothing shipments
-- Recruited and hired new staff
-- Coached staff members on their performance in a constructive manner 
+**Centene Corporation** | St. Louis, MO
+*06/2019 – 07/2021*
+- Designed, built, and maintained scalable healthcare applications in an Agile environment.
+- Acted as stand-in Scrum Master, facilitating ceremonies and metrics tracking.
+- Founded the Technical Writing Guild to standardize documentation practices.
+- Technologies: Angular, Golang, Docker, Kubernetes, Jenkins, AWS.
 
 ---
+
+### Candidate Engagement Associate
+**LaunchCode**
+*03/2022 – 07/2022*
+- Organized delivery of education programs (SQL, Salesforce, Data Analysis, Intro to Product).
+- Provided coaching and feedback to students, managed staff, and coordinated support services.
+
+---
+
 ## Education
+**B.A., Organizational Leadership**
+University of Missouri – St. Louis
+*08/2022 – Expected 05/2026*
 
-### Certified Scrum Master, (CSM)
+**Certified ScrumMaster® (CSM)**
+Scrum Alliance, 2020
 
-Scrum Alliance 
+**SAFe 5 Scrum Master®**
+Scaled Agile, 2022
 
-2020
+**AI for Scrum Masters**
+Scrum Alliance, 2025
 
-### A.A. Business Administration 
-
-Saint Louis Community College
-
-ongoing
-
-### Computer Programming
-
-Launchcode Foundation
-
-06/2018 - 12/2018
-
-### Farm & Garden Student Apprenticeship 
-
-Earthdance Farms
-
-05/16 - 09/17 
-
-
-
+**Computer Programming**
+LaunchCode Foundation, 2018
 
 ---
-## SKILLS & TECHNOLOGIES
 
-##### Languages 
-- GIT
-- VIM
-- ANGULAR
-- GOLANG
-- BASH
-- PYTHON
-- C#  
+## Certifications
+- Certified ScrumMaster® (CSM)
+- SAFe 5 Scrum Master®
+- AI for Scrum Masters
 
-##### DevOps
-- CI/CD PROCESSES
-- GRAFANA
-- JENKINS
-- KUBERNETES
-- KAFKA  
+---
 
-##### Technical Communications
-- HUMAN CENTERED DESIGN
-- JEKYLL
-- GITHUB PAGES
-- ATLASSIAN PRODUCTS (JIRA, CONFLUENCE...)
-- AGILE METHODOLOGIES
-- TECHNICAL COMMUNICATIONS
+## Skills
 
-##### Customer Service
-- ANALYTICAL 
-- INSPECTING AND ADAPTING PROCESSES
-- OPEN TO FEEDBACK
+**Collaboration & Facilitation**
+- Jira, Confluence, ServiceNow, Miro, Slack, Microsoft Teams, KPI Tracking, Team Coaching, Remote Facilitation
+
+**Cloud & DevOps**
+- AWS, Kubernetes, Docker, Axway, Jenkins, Git, CI/CD Pipelines, Grafana, Dynatrace
+
+**Software Development**
+- Angular, Golang, Bash, Python, HTML, CSS
+
+**AI Tools**
+- Copilot, ChatGPT, Claude, Jira AI, Miro AI, Notion AI, Prompt Engineering, Otter AI
+
+**Technical Communication**
+- Human-Centered Design, Documentation Standards, Knowledge Base Creation, Executive Reporting
+
+---
 
