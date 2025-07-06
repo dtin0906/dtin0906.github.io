@@ -34,6 +34,8 @@ In addition to my Agile work, I have produced and edited technical content that 
 - User guides and process documentation
 - Knowledge base articles
 - Release notes and executive reports
+- Monthly organization-wide newsletters
+- Customer-facing email communications regarding upcoming releases, changes, and upgrades
 
 ---
 
@@ -42,6 +44,6 @@ In addition to my Agile work, I have produced and edited technical content that 
 If you’d like to learn more about my experience or request additional examples of my work, please feel free to connect:
 
 - **Email:** [dleeshengtin@gmail.com](mailto:dleeshengtin@gmail.com)
-- **LinkedIn:** [View Profile](https://www.linkedin.com/in/devina)
+- **LinkedIn:** [View Profile](https://www.linkedin.com/in/devinaleeshengtin)
 
 ---
