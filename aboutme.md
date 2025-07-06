@@ -23,14 +23,14 @@ As an early bird, I start most mornings with a cup of coffee and an episode of a
   A lovely British podcast teaching you how to care for houseplants.
 - [Greater Than Code](https://www.greaterthancode.com/)
   A thoughtful series on creating a diverse, sustainable culture in tech.
-- [Old Fashioned On Purpose](https://www.oldfashionedonpurpose.com/)
-  A soothing reminder to slow down and enjoy simplicity.
+  # [Old Fashioned On Purpose](https://www.oldfashionedonpurpose.com/)
+  # A soothing reminder to slow down and enjoy simplicity.
 
 ##### Blogs
 - [I'd Rather Be Writing](https://idratherbewriting.com/)
   My favorite place for tips on documenting APIs and improving technical communication.
-- [The Home Edit](https://www.thehomeedit.com/blog/)
-  Because who doesn’t love a well-organized pantry?
+# [The Home Edit](https://www.thehomeedit.com/blog/)
+# Because who doesn’t love a well-organized pantry?
 - [She Can Code](https://shecancode.io/shecancode-blog)
   An inspiring blog celebrating women in tech.
 
