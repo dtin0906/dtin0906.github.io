@@ -16,7 +16,8 @@ By day, I’m a Lead Scrum Master with a background in software development. I�
 
 Outside of work, you’ll usually find me in my garden or with my nose buried in a book (I read around 100 books a year—no exaggeration). I also love going to author signings and book festivals, book-binding, and hiking.
 
-As an early bird, I start most mornings with a cup of tea and  If you’re looking for something interesting to read, here are a few of most recent picks:
+As an early bird, I start most mornings with a cup of tea and a stroll around my vegetable garden.
+If you’re looking for something interesting to read, here are a few of most recent picks:
 
 ##### Reading Recommendations
 - This Is How You Lose The Time War by Amal El-Mohtar and Max Gladstone
